@@ -12,3 +12,7 @@ Targeted Promotions: If certain customer segments (e.g., larger parties) tend to
 Feedback Mechanisms: Implement systems to gather customer feedback on service quality, which can be correlated with tip amounts to identify areas for improvement.
 
 Performance Tracking: Encourage regular tracking of tips and associated factors to measure the impact of implemented strategies over time.
+
+The Attributes that are affecting tip the most are
+Significant Factors Impacting Tip Amounts:
+['Intercept', 'total_bill', 'size']
