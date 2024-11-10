@@ -1,9 +1,9 @@
 # Regression-Problem
 A Tip regression problem solved
 Insights for Management
-Once you have identified significant factors and built reliable models, you can derive actionable insights:
+Once we have identified significant factors and built reliable models, we can derive actionable insights:
 
-Identify Key Drivers of Tips: Based on your analysis, highlight which factors (e.g., service quality, wait time, customer demographics) significantly influence tips.
+Identify Key Drivers of Tips: Based on our analysis,we can highlight which of the factors (e.g., service quality, wait time, customer demographics) significantly influence tips.
 
 Customer Service Strategies: Recommend training for staff in areas that are shown to improve customer satisfaction and, consequently, tips. For example, if wait time is a significant factor, consider strategies to reduce it.
 
